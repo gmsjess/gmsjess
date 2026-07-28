@@ -28,8 +28,8 @@ Sou apaixonada por tecnologia, organização de sistemas e desenvolvimento de so
 ### 📂 Projetos em Destaque
 
 - 🐍 **[Projeto-POO](https://github.com/gmsjess/Projeto-POO):** Sistema de gerenciamento de biblioteca desenvolvido em Python aplicando conceitos de Orientação a Objetos.
-- 🌐 **[Portfólio](https://github.com/gmsjess/portf-lio-gmsjess):** Projeto web para apresentação de projetos e habilidades.
-- ⏰ **[Relógio Dinâmico](https://github.com/gmsjess/Rel-gio-Din-nimo):** Interface dinâmica construída com foco em estilização e lógica.
+- 🌐 **[Portfólio](https://github.com/gmsjess/portfolio-gmsjess):** Projeto web para apresentação de projetos e habilidades.
+- ⏰ **[Relógio Dinâmico](https://github.com/gmsjess/relogio-dinamico):** Interface dinâmica construída com foco em estilização e lógica.
 
 ---
 
