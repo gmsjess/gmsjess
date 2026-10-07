@@ -1,7 +1,7 @@
-# Olá, eu sou a Jéssica Gomes 👋
+# Olá, sou Jéssica Gomes 
 
  **Estudante de Gestão da Tecnologia da Informação**
-    Estagiária na Empresa Valcont.
+Estagiária na Empresa Valcont.
 📍 Rio de Janeiro, Brasil  
 
 ---
